@@ -1,0 +1,13 @@
+!/bin/bash
+
+# this is day2 
+
+name="shivadarshini"
+
+echo "my name is $name, date is $(date)"
+
+read username
+
+echo " my name is $username "
+
+echo "this file name is : $0"
